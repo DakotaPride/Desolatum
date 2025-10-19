@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "obsidian_spike_thickness=base,vertical_direction=down": {
+      "model": "desolatum:block/obsidian_spike_down_base"
+    },
+    "obsidian_spike_thickness=base,vertical_direction=up": {
+      "model": "desolatum:block/obsidian_spike_up_base"
+    },
+    "obsidian_spike_thickness=tip,vertical_direction=down": {
+      "model": "desolatum:block/obsidian_spike_down_tip"
+    },
+    "obsidian_spike_thickness=tip,vertical_direction=up": {
+      "model": "desolatum:block/obsidian_spike_up_tip"
+    }
+  }
+}

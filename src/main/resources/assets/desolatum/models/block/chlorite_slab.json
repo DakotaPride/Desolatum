@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "desolatum:block/chlorite",
+    "side": "desolatum:block/chlorite",
+    "top": "desolatum:block/chlorite"
+  }
+}

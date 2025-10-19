@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desolatum:block/polished_petalite_slab"
+    },
+    "type=double": {
+      "model": "desolatum:block/polished_petalite"
+    },
+    "type=top": {
+      "model": "desolatum:block/polished_petalite_slab_top"
+    }
+  }
+}

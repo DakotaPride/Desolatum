@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "desolatum:block/chiseled_petalite_top",
+    "side": "desolatum:block/chiseled_petalite"
+  }
+}

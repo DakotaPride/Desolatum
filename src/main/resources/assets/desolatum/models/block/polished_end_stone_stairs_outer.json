@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "desolatum:block/polished_end_stone",
+    "side": "desolatum:block/polished_end_stone",
+    "top": "desolatum:block/polished_end_stone"
+  }
+}

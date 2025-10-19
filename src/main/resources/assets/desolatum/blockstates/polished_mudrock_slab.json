@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desolatum:block/polished_mudrock_slab"
+    },
+    "type=double": {
+      "model": "desolatum:block/polished_mudrock"
+    },
+    "type=top": {
+      "model": "desolatum:block/polished_mudrock_slab_top"
+    }
+  }
+}

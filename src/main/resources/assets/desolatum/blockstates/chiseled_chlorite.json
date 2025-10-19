@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "desolatum:block/chiseled_chlorite_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "desolatum:block/chiseled_chlorite"
+    },
+    "axis=z": {
+      "model": "desolatum:block/chiseled_chlorite_horizontal",
+      "x": 90
+    }
+  }
+}

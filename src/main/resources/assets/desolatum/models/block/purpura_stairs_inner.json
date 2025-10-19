@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "desolatum:block/purpura",
+    "side": "desolatum:block/purpura",
+    "top": "desolatum:block/purpura"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/end_stone",
+    "side": "desolatum:block/obsidised_end_stone_side",
+    "top": "minecraft:block/obsidian"
+  }
+}

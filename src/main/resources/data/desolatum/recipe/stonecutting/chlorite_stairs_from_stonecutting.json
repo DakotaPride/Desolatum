@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "desolatum:stone_types/chlorite"
+  },
+  "result": {
+    "count": 1,
+    "id": "desolatum:chlorite_stairs"
+  }
+}

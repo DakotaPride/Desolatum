@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_end",
+  "features": [
+    "desolatum:purpura_ore",
+    "desolatum:chlorite_ore",
+    "desolatum:dusty_end_stone_disk"
+  ],
+  "step": "underground_ores"
+}

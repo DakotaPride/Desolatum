@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "desolatum:stone_types/obsidian"
+  },
+  "result": {
+    "count": 2,
+    "id": "desolatum:obsidian_slab"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#c:end_stone_dust_blocks",
+    "desolatum:purpura",
+    "desolatum:tristis_sludge",
+    "minecraft:end_stone"
+  ]
+}

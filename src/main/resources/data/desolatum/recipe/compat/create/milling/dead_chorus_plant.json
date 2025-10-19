@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:milling",
+  "processing_time": 200,
+  "ingredients": [
+    {
+      "item": "desolatum:dead_chorus_plant"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:purple_dye"
+    },
+    {
+      "id": "minecraft:purple_dye",
+      "chance": 0.25,
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_dye",
+      "chance": 0.5,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "desolatum:block/dusty_end_stone"
+  }
+}

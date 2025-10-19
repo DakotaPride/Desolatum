@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "desolatum:block/petalite_bricks",
+    "side": "desolatum:block/petalite_bricks",
+    "top": "desolatum:block/petalite_bricks"
+  }
+}

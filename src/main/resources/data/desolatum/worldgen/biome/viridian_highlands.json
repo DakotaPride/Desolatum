@@ -1,0 +1,60 @@
+{
+  "carvers": {},
+  "downfall": 0.5,
+  "effects": {
+    "fog_color": 6094763,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "sky_color": 9174701,
+    "water_color": 10011567,
+    "water_fog_color": 5531993
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [
+      "desolatum:petalite_rock"
+    ],
+    [
+      "minecraft:end_gateway_return",
+      "desolatum:viridite_spike"
+    ],
+    [],
+    [
+      "desolatum:viridite_ore",
+      "desolatum:purpura_ore",
+      "desolatum:chlorite_ore",
+      "desolatum:mudrock_disk",
+      "desolatum:petalite_disk"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.5
+}

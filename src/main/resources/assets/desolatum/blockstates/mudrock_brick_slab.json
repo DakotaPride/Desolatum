@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desolatum:block/mudrock_brick_slab"
+    },
+    "type=double": {
+      "model": "desolatum:block/mudrock_bricks"
+    },
+    "type=top": {
+      "model": "desolatum:block/mudrock_brick_slab_top"
+    }
+  }
+}

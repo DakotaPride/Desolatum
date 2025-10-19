@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#desolatum:end_stone_replaceable",
+    "#desolatum:stone_types/chlorite",
+    "#desolatum:stone_types/mudrock",
+    "#desolatum:stone_types/petalite"
+  ]
+}

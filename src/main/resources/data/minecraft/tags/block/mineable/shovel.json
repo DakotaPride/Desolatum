@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "desolatum:rich_dusty_end_stone",
+    "desolatum:tristis_sludge",
+    "desolatum:mudrock",
+
+    {
+      "required": false,
+      "id": "#c:end_stone_dust_blocks"
+    }
+  ]
+}

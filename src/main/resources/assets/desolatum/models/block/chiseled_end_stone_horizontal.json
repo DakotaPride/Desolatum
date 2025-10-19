@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "desolatum:block/chiseled_end_stone_top",
+    "side": "desolatum:block/chiseled_end_stone"
+  }
+}

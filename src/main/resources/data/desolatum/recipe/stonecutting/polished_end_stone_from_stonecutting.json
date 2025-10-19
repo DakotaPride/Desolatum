@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "desolatum:stone_types/end_stone"
+  },
+  "result": {
+    "count": 1,
+    "id": "desolatum:polished_end_stone"
+  }
+}

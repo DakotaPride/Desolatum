@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "desolatum:block/chiseled_chlorite_top",
+    "side": "desolatum:block/chiseled_chlorite"
+  }
+}

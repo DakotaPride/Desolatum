@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "desolatum:dusty_end_stone",
+
+    {
+      "required": false,
+      "id": "createsifter:crushed_end_stone"
+    }
+  ]
+}

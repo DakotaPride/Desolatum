@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "desolatum:block/mudrock",
+    "side": "desolatum:block/mudrock",
+    "top": "desolatum:block/mudrock"
+  }
+}

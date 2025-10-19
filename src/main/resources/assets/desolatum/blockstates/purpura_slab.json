@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desolatum:block/purpura_slab"
+    },
+    "type=double": {
+      "model": "desolatum:block/purpura"
+    },
+    "type=top": {
+      "model": "desolatum:block/purpura_slab_top"
+    }
+  }
+}

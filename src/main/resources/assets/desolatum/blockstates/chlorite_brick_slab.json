@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desolatum:block/chlorite_brick_slab"
+    },
+    "type=double": {
+      "model": "desolatum:block/chlorite_bricks"
+    },
+    "type=top": {
+      "model": "desolatum:block/chlorite_brick_slab_top"
+    }
+  }
+}

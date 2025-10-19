@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "desolatum:purpura_wall",
+    "desolatum:purpur_wall",
+    "desolatum:polished_purpur_wall",
+    "desolatum:end_stone_wall",
+    "desolatum:polished_end_stone_wall",
+    "desolatum:obsidian_wall",
+    "desolatum:charged_obsidian_wall",
+    "desolatum:obsidian_brick_wall",
+    "desolatum:charged_obsidian_brick_wall",
+    "desolatum:polished_obsidian_wall",
+    "desolatum:polished_charged_obsidian_wall",
+    "desolatum:chlorite_wall",
+    "desolatum:chlorite_brick_wall",
+    "desolatum:polished_chlorite_wall",
+    "desolatum:petalite_wall",
+    "desolatum:petalite_brick_wall",
+    "desolatum:polished_petalite_wall",
+    "desolatum:mudrock_wall",
+    "desolatum:mudrock_brick_wall",
+    "desolatum:polished_mudrock_wall"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desolatum:block/obsidian_brick_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/obsidian_bricks"
+    },
+    "type=top": {
+      "model": "desolatum:block/obsidian_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "desolatum:block/short_infirmum_weeds"
+  }
+}

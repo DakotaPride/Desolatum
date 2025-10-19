@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "desolatum:dead_chorus_plant"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:purple_dye"
+  }
+}

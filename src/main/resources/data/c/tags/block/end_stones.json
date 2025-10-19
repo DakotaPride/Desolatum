@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_stone_bricks",
+    "desolatum:obsidised_end_stone",
+    "desolatum:chiseled_end_stone",
+    "desolatum:polished_end_stone"
+  ]
+}

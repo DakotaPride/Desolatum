@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "desolatum:purpura_slab",
+    "desolatum:polished_purpur_slab",
+    "desolatum:end_stone_slab",
+    "desolatum:polished_end_stone_slab",
+    "desolatum:obsidian_slab",
+    "desolatum:charged_obsidian_slab",
+    "desolatum:obsidian_brick_slab",
+    "desolatum:charged_obsidian_brick_slab",
+    "desolatum:polished_obsidian_slab",
+    "desolatum:polished_charged_obsidian_slab",
+    "desolatum:chlorite_slab",
+    "desolatum:chlorite_brick_slab",
+    "desolatum:polished_chlorite_slab",
+    "desolatum:petalite_slab",
+    "desolatum:petalite_brick_slab",
+    "desolatum:polished_petalite_slab",
+    "desolatum:mudrock_slab",
+    "desolatum:mudrock_brick_slab",
+    "desolatum:polished_mudrock_slab"
+  ]
+}

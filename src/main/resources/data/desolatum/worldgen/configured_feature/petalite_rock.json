@@ -1,0 +1,8 @@
+{
+  "type": "desolatum:end_blob",
+  "config": {
+    "state": {
+      "Name": "desolatum:petalite"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "Desolatum Resource Utils",
+        "supported_formats": {
+            "max_inclusive": 48,
+            "min_inclusive": 1
+        }
+    }
+}

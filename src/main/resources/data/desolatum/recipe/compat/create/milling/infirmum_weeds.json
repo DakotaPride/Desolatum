@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:milling",
+  "processing_time": 200,
+  "ingredients": [
+    {
+      "tag": "desolatum:infirmum_weeds"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:black_dye"
+    },
+    {
+      "id": "minecraft:black_dye",
+      "chance": 0.25,
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_dye",
+      "chance": 0.35,
+      "count": 1
+    }
+  ]
+}

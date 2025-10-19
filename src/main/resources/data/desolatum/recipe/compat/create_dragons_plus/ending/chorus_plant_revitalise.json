@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_dragons_plus"
+    }
+  ],
+  "type": "create_dragons_plus:ending",
+  "ingredients": [
+    {
+      "item": "desolatum:dead_chorus_plant"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:chorus_plant"
+    }
+  ]
+}

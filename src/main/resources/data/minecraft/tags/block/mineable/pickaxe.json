@@ -1,0 +1,97 @@
+{
+  "replace": false,
+  "values": [
+    "desolatum:vilidallum_block",
+    "desolatum:viridite_block",
+
+    "desolatum:purpura_slab",
+    "desolatum:purpura_stairs",
+    "desolatum:purpura_wall",
+    "desolatum:polished_purpur_slab",
+    "desolatum:polished_purpur_stairs",
+    "desolatum:polished_purpur_wall",
+    "desolatum:purpur_wall",
+
+    "desolatum:obsidian_slab",
+    "desolatum:obsidian_stairs",
+    "desolatum:obsidian_wall",
+    "desolatum:obsidian_brick_slab",
+    "desolatum:obsidian_brick_stairs",
+    "desolatum:obsidian_brick_wall",
+    "desolatum:polished_obsidian_slab",
+    "desolatum:polished_obsidian_stairs",
+    "desolatum:polished_obsidian_wall",
+
+    "desolatum:charged_obsidian_slab",
+    "desolatum:charged_obsidian_stairs",
+    "desolatum:charged_obsidian_wall",
+    "desolatum:charged_obsidian_brick_slab",
+    "desolatum:charged_obsidian_brick_stairs",
+    "desolatum:charged_obsidian_brick_wall",
+    "desolatum:polished_charged_obsidian_slab",
+    "desolatum:polished_charged_obsidian_stairs",
+    "desolatum:polished_charged_obsidian_wall",
+
+    "desolatum:end_stone_slab",
+    "desolatum:end_stone_stairs",
+    "desolatum:end_stone_wall",
+    "desolatum:polished_end_stone_slab",
+    "desolatum:polished_end_stone_stairs",
+    "desolatum:polished_end_stone_wall",
+
+    "desolatum:chlorite_slab",
+    "desolatum:chlorite_stairs",
+    "desolatum:chlorite_wall",
+    "desolatum:chlorite_brick_slab",
+    "desolatum:chlorite_brick_stairs",
+    "desolatum:chlorite_brick_wall",
+    "desolatum:polished_chlorite_slab",
+    "desolatum:polished_chlorite_stairs",
+    "desolatum:polished_chlorite_wall",
+
+    "desolatum:petalite_slab",
+    "desolatum:petalite_stairs",
+    "desolatum:petalite_wall",
+    "desolatum:petalite_brick_slab",
+    "desolatum:petalite_brick_stairs",
+    "desolatum:petalite_brick_wall",
+    "desolatum:polished_petalite_slab",
+    "desolatum:polished_petalite_stairs",
+    "desolatum:polished_petalite_wall",
+
+    "desolatum:mudrock_slab",
+    "desolatum:mudrock_stairs",
+    "desolatum:mudrock_wall",
+    "desolatum:mudrock_brick_slab",
+    "desolatum:mudrock_brick_stairs",
+    "desolatum:mudrock_brick_wall",
+    "desolatum:polished_mudrock_slab",
+    "desolatum:polished_mudrock_stairs",
+    "desolatum:polished_mudrock_wall",
+
+    {
+      "required": false,
+      "id": "#desolatum:stone_types/purpura"
+    },
+    {
+      "required": false,
+      "id": "#desolatum:stone_types/end_stone"
+    },
+    {
+      "required": false,
+      "id": "#desolatum:stone_types/obsidian"
+    },
+    {
+      "required": false,
+      "id": "#desolatum:stone_types/chlorite"
+    },
+    {
+      "required": false,
+      "id": "#desolatum:stone_types/petalite"
+    },
+    {
+      "required": false,
+      "id": "#desolatum:stone_types/mudrock"
+    }
+  ]
+}

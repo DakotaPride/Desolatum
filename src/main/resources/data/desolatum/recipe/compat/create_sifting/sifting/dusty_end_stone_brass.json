@@ -1,0 +1,49 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "createsifter:sifting",
+  "input": {
+    "tag": "c:end_stone_dust_blocks"
+  },
+  "mesh": {
+    "count": 1,
+    "id": "createsifter:brass_mesh"
+  },
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.65,
+      "count": 3,
+      "id": "desolatum:vilidallum_shard"
+    },
+    {
+      "chance": 0.35,
+      "count": 3,
+      "id": "desolatum:vilidallum_shard"
+    },
+    {
+      "chance": 0.65,
+      "count": 3,
+      "id": "desolatum:viridite_shard"
+    },
+    {
+      "chance": 0.35,
+      "count": 3,
+      "id": "desolatum:viridite_shard"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "id": "desolatum:decrepit_stick"
+    },
+    {
+      "chance": 0.15,
+      "count": 1,
+      "id": "minecraft:chorus_fruit"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_stone",
+    "desolatum:purpura",
+    "desolatum:chlorite",
+    "desolatum:mudrock"
+  ]
+}

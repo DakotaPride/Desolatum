@@ -1,0 +1,154 @@
+{
+  "parent": "minecraft:end/enter_end_gateway",
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "desolatum:end_dunes"
+            ]
+          }
+        }
+      }
+    },
+    "1": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "desolatum:rich_end_dunes"
+            ]
+          }
+        }
+      }
+    },
+    "2": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "desolatum:viridian_highlands"
+            ]
+          }
+        }
+      }
+    },
+    "3": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "desolatum:obsidised_end_highlands"
+            ]
+          }
+        }
+      }
+    },
+    "4": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "minecraft:end_barrens"
+            ]
+          }
+        }
+      }
+    },
+    "5": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "minecraft:end_highlands"
+            ]
+          }
+        }
+      }
+    },
+    "6": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "minecraft:end_midlands"
+            ]
+          }
+        }
+      }
+    },
+    "7": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "minecraft:small_end_islands"
+            ]
+          }
+        }
+      }
+    },
+    "8": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": [
+              "minecraft:the_end"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.desolatum.all_biomes.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "desolatum:purpura"
+    },
+    "title": {
+      "translate": "advancements.desolatum.all_biomes.title"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ],
+    [
+      "1"
+    ],
+    [
+      "2"
+    ],
+    [
+      "3"
+    ],
+    [
+      "4"
+    ],
+    [
+      "5"
+    ],
+    [
+      "6"
+    ],
+    [
+      "7"
+    ],
+    [
+      "8"
+    ]
+  ]
+}

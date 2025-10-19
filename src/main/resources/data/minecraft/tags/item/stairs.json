@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "desolatum:purpura_stairs",
+    "desolatum:polished_purpur_stairs",
+    "desolatum:end_stone_stairs",
+    "desolatum:polished_end_stone_stairs",
+    "desolatum:obsidian_stairs",
+    "desolatum:charged_obsidian_stairs",
+    "desolatum:obsidian_brick_stairs",
+    "desolatum:charged_obsidian_brick_stairs",
+    "desolatum:polished_obsidian_stairs",
+    "desolatum:polished_charged_obsidian_stairs",
+    "desolatum:chlorite_stairs",
+    "desolatum:chlorite_brick_stairs",
+    "desolatum:polished_chlorite_stairs",
+    "desolatum:petalite_stairs",
+    "desolatum:petalite_brick_stairs",
+    "desolatum:polished_petalite_stairs",
+    "desolatum:mudrock_stairs",
+    "desolatum:mudrock_brick_stairs",
+    "desolatum:polished_mudrock_stairs"
+  ]
+}

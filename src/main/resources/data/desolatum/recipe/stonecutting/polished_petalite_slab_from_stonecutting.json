@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "desolatum:stone_types/petalite"
+  },
+  "result": {
+    "count": 2,
+    "id": "desolatum:polished_petalite_slab"
+  }
+}
