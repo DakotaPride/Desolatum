@@ -28,6 +28,6 @@ config="${mod_id}.mixins.json"
 [[dependencies.${mod_id}]]
     modId="terrablender"
     type="required"
-    versionRange="[4.1.0.8,)"
+    versionRange="${terrablender_version_range}"
     ordering="NONE"
     side="BOTH"
